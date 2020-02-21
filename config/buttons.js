@@ -13,16 +13,16 @@ const navButtons = [
     path: "/explore",
     icon: <FontAwesomeIcon icon={faCompass} />
   },
-  {
-    label: "Near Me",
-    path: "/nearme",
-    icon: <FontAwesomeIcon icon={faMapMarkerAlt} />
-  },
-  {
-    label: "My Cart",
-    path: "/mycart",
-    icon: <FontAwesomeIcon icon={faShoppingCart} />
-  },
+  // {
+  //   label: "Near Me",
+  //   path: "/nearme",
+  //   icon: <FontAwesomeIcon icon={faMapMarkerAlt} />
+  // },
+  // {
+  //   label: "My Cart",
+  //   path: "/mycart",
+  //   icon: <FontAwesomeIcon icon={faShoppingCart} />
+  // },
   {
     label: "Profile",
     path: "/profile",

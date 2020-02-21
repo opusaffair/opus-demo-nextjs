@@ -1,0 +1,16 @@
+{
+  "build": {
+    "env": {
+      "AUTH0_DOMAIN": "opusaffair.auth0.com",
+      "AUTH0_CLIENT_ID": "EbuOjb6bj9hM4WvgHQckhce4eW14BFn2",
+      "AUTH0_CLIENT_SECRET": "@auth0_client_secret",
+      "GRAPHQL_URI": "https://api.dev.commoncalendar.org/graphql",
+      "SESSION_COOKIE_SECRET": "@session_cookie_secret",
+      "REDIRECT_URI": "https://whatabyte.gtwright.now.sh/api/callback",
+      "POST_LOGOUT_REDIRECT_URI": "https://whatabyte.gtwright.now.sh",
+      "BASE_URI": "https://whatabyte.gtwright.now.sh",
+      "AUTH0_SCOPE": "openid profile email roles",
+      "API_AUDIENCE": "https://login.opusaffair.com/"
+    }
+  }
+}
